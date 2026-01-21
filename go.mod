@@ -1,4 +1,4 @@
-module github.com/yuhang-jieke/week2
+module github.com/yuhang-jieke/week2/tree
 
 go 1.25.6
 
